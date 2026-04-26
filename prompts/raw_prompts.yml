@@ -51,8 +51,8 @@ __dict__:
         __pydantic_fields_set__: !!set
           input_variables: null
           partial_variables: null
-          template_format: null
           template: null
+          template_format: null
         __pydantic_private__: null
       additional_kwargs: {}
     __pydantic_extra__: null
@@ -80,8 +80,8 @@ __dict__:
         __pydantic_fields_set__: !!set
           input_variables: null
           partial_variables: null
-          template_format: null
           template: null
+          template_format: null
         __pydantic_private__: null
       additional_kwargs: {}
     __pydantic_extra__: null
@@ -92,10 +92,10 @@ __dict__:
   validate_template: false
 __pydantic_extra__: null
 __pydantic_fields_set__: !!set
-  messages: null
-  optional_variables: null
   input_variables: null
   metadata: null
-  partial_variables: null
+  messages: null
   input_types: null
+  partial_variables: null
+  optional_variables: null
 __pydantic_private__: null

@@ -310,7 +310,7 @@ def main():
     print("Certifique-se de ter feito push dos prompts antes de avaliar:")
     print("  python src/push_prompts.py\n")
 
-    prompts_to_evaluate = [
+    prompts_to_evaluate = [        
         "bug_to_user_story_v2",
     ]
 
